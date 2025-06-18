@@ -1,0 +1,18 @@
+name: RAHEEM-XMD-2
+services:
+  - name: RAHEEM-XMD-2
+    type: web
+    ports:
+      - 5000
+    routes:
+      - path: "/"
+    build:
+      type: docker
+      dockerfile: ./Dockerfile
+    regions:
+      - fra
+      - sin
+
+
+
+      
