@@ -219,14 +219,3 @@ The developer is not responsible for any misuse or bans.
 </a>
 
 ---
-
- Final Note
-
-If you face any issues, report them on GitHub or in the WhatsApp community.  
-Happy coding! 
-
----
-
-<p align="center">
-  <img alt="Made By DEV PROFESSEUR" src="https://img.shields.io/badge/Made%20by-DEV PROFESSEUR%20-black?style=for-the-badge&logo=github" />
-</p>
