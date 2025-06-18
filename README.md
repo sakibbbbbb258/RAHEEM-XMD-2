@@ -5,22 +5,19 @@
 </a>
 
 ---
-
-<h1 align="center">WHA BOT SIMPLE
-
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/82nyf5.jpg" width="700"/>
+  <img src="https://files.catbox.moe/vgb4cw.jpg" width="700"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/PROFESSEURMDX">
-    <img title="Author" src="https://img.shields.io/badge/Author-DEV%20PROFESSEUR-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Raheem-cm">
+    <img title="Author" src="https://img.shields.io/badge/Author-DEV%20Raheem-cm-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40">
+  <a href="https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -28,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HAIKO-MDX-V1/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/RAHEEM-XMD-2/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -44,7 +41,7 @@ DEPLOY EASILY HAIKO-MDX-V1
  Fork This Repository
 
  <p align="center">
-  <a href="https://github.com/PROFESSEURMDX/HAIKO-MDX-V1">
+  <a href="https://github.com/Raheem-cm/RAHEEM-XMD-2">
     <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -54,10 +51,10 @@ DEPLOY EASILY HAIKO-MDX-V1
 ### DEPLOY HAIKO-MDX-V1
 
 <p align="center">
-  <a href="https://replit.com/PROFESSEURMDX">
+  <a href="https://replit.com/Raheem-cm">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
-  <a href="https://railway.app/new/template?template=https://github.com/PROFESSEURMDX/HAIKO-MDX-V1">
+  <a href="https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM-XMD-2">
     <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
   </a>
   <a href="https://render.com/">
@@ -66,13 +63,13 @@ DEPLOY EASILY HAIKO-MDX-V1
 </p>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/PROFESSEURMDX/HAIKO-MDX-V1/tree/main">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Raheem-cm/RAHEEM-XMD-2/tree/main">
     <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <a href="https://host.talkdrove.com/share-bot/82">
     <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=professeur-xd/HAIKO-MDX&ports=3000">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=Raheem-cm/RAHEEM-XMD-2&ports=3000">
     <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
   </a>
 </p>
@@ -167,8 +164,8 @@ jobs:
 ¼ CHANNEL YOUTUBE
 
 <p align="center">
-  <a href="https://youtube.com/@MYSTICHAIKOTECH">
-    <img src="https://img.shields.io/badge/Subscribe-MYSTIC HAIKO TECH-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe Channel" />
+  <a href="https://youtube.com/@chiefmamba-cm18?si=7AHf3VsnHzibeP3c">
+    <img src="https://img.shields.io/badge/Subscribe-RAHEEM-CM-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe Channel" />
   </a>
 </p>
 
@@ -177,7 +174,7 @@ jobs:
  Workflows File
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40">
+  <a href="https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r">
     <img src="https://img.shields.io/badge/Check-Workflows-FF004D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Check Workflows" />
   </a>
 </p>
