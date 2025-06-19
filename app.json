@@ -1,6 +1,6 @@
 {
   "name": "RAHEEM-XMD-2",
-  "description": "🚀 RAHEEM XMD 2 WhatsApp MultiDevice Bot – BY MYSTIC HAIKO 💡✨",
+  "description": "🚀 RAHEEM XMD 2 WhatsApp MultiDevice Bot – BY RAHEEM-CM 💡✨",
   "logo": "https://files.catbox.moe/vgb4cw.jpg",
   "keywords": ["PROFESSEUR HACK", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/Raheem-cm/RAHEEM-XMD-2",
@@ -8,7 +8,7 @@
   "env": { 
   
     "SESSION_ID": {
-      "description": "Ensure your session Id starts with the word RAHEEM~XMD-2~",
+      "description": "Ensure your session Id starts with the word HAIKO~MDX~",
       "required": true,
       "value": ""
     },
