@@ -32,7 +32,7 @@ DEPLOY SIMPLY RAHEEM-XMD-2
 ### Get Pairing Code SESSION ID
 
 
-[![HAIKO MDX SESSION](https://img.shields.io/badge/HAIKO%20-MDX%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://haiko-mdx-v2-session.onrender.com)
+[![RAHEEM-XMD-2 SESSION](https://img.shields.io/badge/RAHEEM%20-XMD-2%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://raheem-xmd-2-pair.onrender.com)
 ---
 
  Fork This Repository
