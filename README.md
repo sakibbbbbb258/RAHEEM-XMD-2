@@ -45,7 +45,7 @@ DEPLOY SIMPLY RAHEEM-XMD-2
 
 ---
 
-### DEPLOY HAIKO-MDX-V1
+### DEPLOY RAHEEM-XMD-2 
 
 <p align="center">
   <a href="https://replit.com/Raheem-cm">
