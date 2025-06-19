@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("RAHEEM~XMD-2~")[1];
+    const sessdata = config.SESSION_ID.split("KAISEN~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -126,7 +126,7 @@ async function start() {
 ♻️ CHANNEL : https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
 
 ═══════════════════
-*🪀 Your Prefix:* = *${prefix}*
+*🪀 Your Prefix:. = *${prefix}*
 ═══════════════════
 
 💬 REPO : https://github.com/Raheem-cm/RAHEEM-XMD-2 
