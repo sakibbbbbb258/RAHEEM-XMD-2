@@ -75,3 +75,7 @@ DEPLOY SIMPLY RAHEEM-XMD-2
 
 [![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+⚡RAHEEM-XMD-2+𝙿𝚘𝚠𝚎𝚛𝚎𝚍+𝚋𝚢+Raheem+cm⚡+』)](https://git.io/typing-svg)
 
+🔌🔌💫
+
+[![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=130&lines=『+⚡owner+number-+255763111390⚡+』)](https://git.io/typing-svg)
+
