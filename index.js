@@ -126,7 +126,7 @@ async function start() {
 ♻️ CHANNEL : https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
 
 ═══════════════════
-*🪀 Your Prefix:. = *${prefix}*
+*🪀 Your Prefix:* = *${prefix}*
 ═══════════════════
 
 💬 REPO : https://github.com/Raheem-cm/RAHEEM-XMD-2 
