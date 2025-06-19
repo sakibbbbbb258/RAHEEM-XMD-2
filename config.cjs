@@ -5,7 +5,7 @@ require("dotenv").config();
 
 const config = {
   SESSION_ID: process.env.SESSION_ID || "",
-  PREFIX: process.env.PREFIX || '+',
+  PREFIX: process.env.PREFIX || '.',
   AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN !== undefined ? process.env.AUTO_STATUS_SEEN === 'true' : true, 
   AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY !== undefined ? process.env.AUTO_STATUS_REPLY === 'true' : true,
   STATUS_READ_MSG: process.env.STATUS_READ_MSG || '',
@@ -25,7 +25,7 @@ const config = {
   BOT_NAME: process.env.BOT_NAME || "RAHEEM-XMD-2",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/vgb4cw.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO RAHEEM-XMD-2",
-  OWNER_NAME: process.env.OWNER_NAME || "𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗",
+  OWNER_NAME: process.env.OWNER_NAME || "RAHEEM-CM",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "255763111390",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
